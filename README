@@ -1,0 +1,23 @@
+Floodgate is a research peer-to-peer architecture that aimed at 
+providing a scalable Content Delivery Network-like system by 
+incentivising the peers to share their resources for monetary 
+benefits.
+
+It was part of the Ph.D. work carried out by Srijith Nair
+(https://srijith.net) at Vrije Universeit, Amsterdam.
+
+Version 1.0 of the Floodgate sourc code, based on the BitTorrent 
+5.0.7 reference implementation is available for download here, 
+under the same license as the BitTorrent itself - 'BitTorrent 
+Open Source License'. This code was released on 30th July, 2008.
+
+The code was developed in collaboration with Erik Zentveld.
+
+Peer-reviewed publication associated with this work is:
+Srijith K. Nair, Erik Zentveld, Bruno Crispo, Andrew S. Tanenbaum, 
+"Floodgate: A Micropayment Incentivised P2P Content Delivery Network"
+17th IEEE International Conference on Computer Communications and 
+Networks (ICCCN 2008), August 3 - 7, 2008, St. Thomas U.S. Virgin 
+Islands, USA.
+
+More details available at https://srijith.net/vu/floodgate/
